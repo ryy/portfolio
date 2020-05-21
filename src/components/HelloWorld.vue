@@ -28,7 +28,7 @@
               </ul>
             </div>
             <div class="mt-10 -mx-4 relative lg:mt-0">
-              <img class="relative mx-auto" width="490" src="../assets/qb.jpeg">
+              <img class="relative mx-auto" width="490" src="/qb.jpeg">
             </div>
           </div>
 
