@@ -308,6 +308,32 @@
               <img class="relative mx-auto" width="300" src="../assets/chameleon_chat.jpg" alt="">
             </div>
           </div>
+
+          <div id="portfolio" class="mt-20 text-center">
+            <h2 class="text-2xl tracking-tight leading-10 font-extrabold text-gray-900 sm:text-5xl sm:leading-none md:text-4xl">
+              <span class="text-green-500">Founder</span>
+            </h2>
+          </div>
+          <div class="relative mt-12 sm:mt-16 lg:mt-24 lg:grid lg:grid-cols-2 lg:gap-8 lg:items-center">
+            <div class="relative">
+              <h4 class="text-2xl leading-8 font-extrabold text-gray-900 tracking-tight sm:text-3xl sm:leading-9">
+                ITnews
+              </h4>
+              <ul class="mt-3 text-lg leading-7 text-gray-600 list-disc list-inside">
+                <li>最新のテクノロジーニュースをPICKしたり、コメントを通じて知識共有するソーシャルITメディア</li>
+              </ul>
+              <div class="px-1 py-1">
+                <a href="https://itnews.org/" target="_blank" class="left-auto mr-2 underline">Web</a>
+                <a href="https://apps.apple.com/app/id1445990059" target="_blank" class="left-auto mr-2 underline">AppStore</a>
+                <a href="https://play.google.com/store/apps/details?id=jp.co.rocketa.raptor.production" target="_blank" class="left-auto mr-2 underline">GooglePlay</a>
+                <a href="https://chrome.google.com/webstore/detail/itnews-pick%E3%83%9C%E3%82%BF%E3%83%B3/hkjlmecmcnliieakaedbljdnilojflla" target="_blank" class="left-auto mr-2 underline">ChromeExtension</a>
+              </div>
+            </div>
+
+            <div class="mt-10 -mx-4 relative lg:mt-0">
+              <img class="relative mx-auto" src="../assets/itnews.png" alt="">
+            </div>
+          </div>
         </div>
       </div>
     </div>
