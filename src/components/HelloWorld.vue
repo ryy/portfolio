@@ -133,7 +133,7 @@
             </h2>
           </div>
 
-          <div class="relative mt-4 lg:mt-6 lg:grid lg:grid-cols-2 lg:gap-8 lg:items-center">
+          <div class="relative mt-12 sm:mt-16 lg:mt-24 lg:grid lg:grid-cols-2 lg:gap-8 lg:items-center">
             <div class="relative">
               <h4 class="text-2xl leading-8 font-extrabold text-gray-900 tracking-tight sm:text-3xl sm:leading-9">
                 ペットじまん
