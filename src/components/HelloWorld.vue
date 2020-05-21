@@ -5,9 +5,14 @@
         <h2 class="text-4xl tracking-tight leading-10 font-extrabold text-gray-900 sm:text-5xl sm:leading-none md:text-6xl">
           <span class="text-green-500">Ryo Naruse's Portfolio</span>
           <br>
-          <span class="text-3xl">Web Development Engineer</span>
+          <span class="text-4xl">Web Development Engineer</span>
         </h2>
+
+        <span class="inline-block mt-16 tracking-wider text-white bg-orange-500 px-4 py-1 text-xs rounded leading-loose mx-2 font-semibold" title="">
+          <i class="fas fa-exclamation"></i> 案件探し中
+        </span>
       </div>
+
       <div class="mt-5 py-12 bg-gray-50 overflow-hidden lg:py-16">
         <div class="relative max-w-xl mx-auto px-4 sm:px-6 lg:px-8 lg:max-w-screen-xl">
           <div id="about_me" class="relative mt-4 lg:mt-6 lg:grid lg:grid-cols-2 lg:gap-8 lg:items-center">
