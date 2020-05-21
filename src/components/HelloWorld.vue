@@ -10,7 +10,7 @@
       </div>
       <div class="mt-5 py-12 bg-gray-50 overflow-hidden lg:py-16">
         <div class="relative max-w-xl mx-auto px-4 sm:px-6 lg:px-8 lg:max-w-screen-xl">
-          <div class="relative mt-4 lg:mt-6 lg:grid lg:grid-cols-2 lg:gap-8 lg:items-center">
+          <div id="about_me" class="relative mt-4 lg:mt-6 lg:grid lg:grid-cols-2 lg:gap-8 lg:items-center">
             <div class="relative">
               <h4 class="text-2xl leading-8 font-extrabold text-gray-900 tracking-tight sm:text-3xl sm:leading-9">
                 About Me
@@ -32,7 +32,7 @@
             </div>
           </div>
 
-          <div class="mt-20 text-center">
+          <div id="skill" class="mt-20 text-center">
             <h2 class="text-2xl tracking-tight leading-10 font-extrabold text-gray-900 sm:text-5xl sm:leading-none md:text-4xl">
               <span class="text-green-500">My skill set</span>
             </h2>
@@ -127,7 +127,7 @@
             </div>
           </div>
 
-          <div class="mt-20 text-center">
+          <div id="portfolio" class="mt-20 text-center">
             <h2 class="text-2xl tracking-tight leading-10 font-extrabold text-gray-900 sm:text-5xl sm:leading-none md:text-4xl">
               <span class="text-green-500">Portfolio</span>
             </h2>
