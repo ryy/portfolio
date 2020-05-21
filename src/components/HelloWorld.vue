@@ -20,7 +20,7 @@
               <h4 class="text-2xl leading-8 font-extrabold text-gray-900 tracking-tight sm:text-3xl sm:leading-9">
                 About Me
               </h4>
-              <ul class="mt-3 text-lg leading-7 text-gray-500 list-disc list-inside">
+              <ul class="mt-3 text-lg leading-7 text-gray-600 list-disc list-inside">
                 <li>
                   1991年生まれのフリーランスWebエンジニアです。
                   <br>
@@ -109,7 +109,7 @@
               <div class="lg:col-start-1">
                 <p>
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
-                  <span class="ml-1 text-sm">簡単な改修なら可能</span>
+                  <span class="ml-1 text-sm text-gray-600">簡単な改修なら可能</span>
                 </p>
 
                 <p>
@@ -117,7 +117,7 @@
                   <svg class="h-4 w-4 text-white inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
-                  <span class="ml-1 text-sm">基本的な使い方は熟知</span>
+                  <span class="ml-1 text-sm text-gray-600">基本的な使い方は熟知</span>
                 </p>
 
                 <p>
@@ -126,7 +126,7 @@
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
-                  <span class="ml-1 text-sm">問題なく使用できる</span>
+                  <span class="ml-1 text-sm text-gray-600">問題なく使用できる</span>
                 </p>
               </div>
             </div>
@@ -143,7 +143,7 @@
               <h4 class="text-2xl leading-8 font-extrabold text-gray-900 tracking-tight sm:text-3xl sm:leading-9">
                 ペットじまん
               </h4>
-              <ul class="mt-3 text-lg leading-7 text-gray-500 list-disc list-inside">
+              <ul class="mt-3 text-lg leading-7 text-gray-600 list-disc list-inside">
                 <li>ペット好きが集まるペット専用SNS</li>
               </ul>
               <div class="px-1 py-1">
@@ -186,10 +186,10 @@
                 <h4 class="text-2xl leading-8 font-extrabold text-gray-900 tracking-tight sm:text-3xl sm:leading-9">
                   ブラックアラート - 周辺ブラック企業プッシュ通知アプリ
                 </h4>
-                <p class="mt-3 text-md leading-7 text-gray-500">
+                <p class="mt-3 text-md leading-7 text-gray-600">
                   位置情報を利用して周辺にブラック企業があればプッシュ通知で知らせてくれるアプリです
                 </p>
-                <p class="mt-3 text-md leading-7 text-gray-500">
+                <p class="mt-3 text-md leading-7 text-gray-600">
                   ※ ブラック企業の定義は厚生労働省が公表している「労働基準関係法令違反に係る公表事案」のデータに記載されている企業を指しています
                 </p>
                 <div class="px-1 py-1">
@@ -216,7 +216,7 @@
               <h4 class="text-2xl leading-8 font-extrabold text-gray-900 tracking-tight sm:text-3xl sm:leading-9">
                 気軽に質問できる質問アプリ - ドーデ
               </h4>
-              <ul class="mt-3 text-lg leading-7 text-gray-500 list-disc list-inside">
+              <ul class="mt-3 text-lg leading-7 text-gray-600 list-disc list-inside">
                 <li>質問アプリ</li>
               </ul>
               <div class="px-1 py-1">
@@ -249,7 +249,7 @@
                 <h4 class="text-2xl leading-8 font-extrabold text-gray-900 tracking-tight sm:text-3xl sm:leading-9">
                   感情つぶやき匿名SNSアプリ エモーション
                 </h4>
-                <p class="mt-3 text-md leading-7 text-gray-500">
+                <p class="mt-3 text-md leading-7 text-gray-600">
                   登録不要・完全匿名のつぶやきアプリ
                 </p>
                 <div class="px-1 py-1">
@@ -279,7 +279,7 @@
               <h4 class="text-2xl leading-8 font-extrabold text-gray-900 tracking-tight sm:text-3xl sm:leading-9">
                 (閉鎖) ひまチャットトークアプリ - カメレオンチャット
               </h4>
-              <ul class="mt-3 text-lg leading-7 text-gray-500 list-disc list-inside">
+              <ul class="mt-3 text-lg leading-7 text-gray-600 list-disc list-inside">
                 <li>背景を好きな色にカスタマイズできるチャットアプリです</li>
               </ul>
               <div class="px-1 py-1">
@@ -314,7 +314,7 @@
 
     <div id="contact" class="max-w-screen-xl mx-auto py-12 px-4 overflow-hidden sm:px-6 lg:px-8">
       <div class="mt-8">
-        <p class="text-center text-base leading-6 text-gray-500">
+        <p class="text-center text-base leading-6 text-gray-600">
           Contact us:
           <a href="mailto:naruse19910801@gmail.com" class="hover:text-gray-600">
             naruse19910801@gmail.com
