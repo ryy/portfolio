@@ -21,7 +21,7 @@
                   <br>
                   中学生の頃にネットゲームをきかっけにPCに1日中触れる日々を過ごしていました。
                   <br>
-                  就職はITとは無縁の職に就くも、エンジニアとして働きたいという思いが強くなり退職を気にシステム開発会社に就職し、1年後にフリーランスとして独立し5年目を迎えます。
+                  就職はITとは無縁の職に就くも、エンジニアとして働きたいという思いが強くなりシステム開発会社に転職し、1年後にフリーランスとして独立し5年目を迎えます。
                   <br>
                   主にWeb系の案件をメインに携わっています。
                 </li>
@@ -304,6 +304,17 @@
             </div>
           </div>
         </div>
+      </div>
+    </div>
+
+    <div id="contact" class="max-w-screen-xl mx-auto py-12 px-4 overflow-hidden sm:px-6 lg:px-8">
+      <div class="mt-8">
+        <p class="text-center text-base leading-6 text-gray-500">
+          Contact us:
+          <a href="mailto:naruse19910801@gmail.com" class="hover:text-gray-600">
+            naruse19910801@gmail.com
+          </a>
+        </p>
       </div>
     </div>
   </div>
