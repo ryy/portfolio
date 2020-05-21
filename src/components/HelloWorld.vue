@@ -309,7 +309,7 @@
             </div>
           </div>
 
-          <div id="portfolio" class="mt-20 text-center">
+          <!-- <div id="portfolio" class="mt-20 text-center">
             <h2 class="text-2xl tracking-tight leading-10 font-extrabold text-gray-900 sm:text-5xl sm:leading-none md:text-4xl">
               <span class="text-green-500">Founder</span>
             </h2>
@@ -333,7 +333,7 @@
             <div class="mt-10 -mx-4 relative lg:mt-0">
               <img class="relative mx-auto" src="../assets/itnews.png" alt="">
             </div>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
