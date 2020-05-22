@@ -5,7 +5,7 @@
         <h2 class="text-4xl tracking-tight leading-10 font-extrabold text-gray-900 sm:text-5xl sm:leading-none md:text-6xl">
           <span class="text-green-500">Ryo Naruse's Portfolio</span>
           <br>
-          <span class="text-4xl">Web Development Engineer</span>
+          <span class="inline-block p-3 text-4xl">Web Development Engineer</span>
         </h2>
 
         <span class="inline-block mt-16 tracking-wider text-white bg-orange-500 px-4 py-1 text-xs rounded leading-loose mx-2 font-semibold" title="">
@@ -328,6 +328,19 @@
                 <a href="https://play.google.com/store/apps/details?id=jp.co.rocketa.raptor.production" target="_blank" class="left-auto mr-2 underline">GooglePlay</a>
                 <a href="https://chrome.google.com/webstore/detail/itnews-pick%E3%83%9C%E3%82%BF%E3%83%B3/hkjlmecmcnliieakaedbljdnilojflla" target="_blank" class="left-auto mr-2 underline">ChromeExtension</a>
               </div>
+              <div class="px-1 py-1">
+                <span class="sm:text-2xl leading-8 font-extrabold text-gray-500 tracking-tight sm:leading-9">
+                  media
+                </span>
+              </div>
+              <ul class="inline-flex" >
+                <a href="https://jp.techcrunch.com/2019/05/09/rocketa-fundraising/" target="_blank" class="mr-2">
+                  <img src="/tc.png">
+                </a>
+                <a href="https://thebridge.jp/2019/05/rocketa-angel-round-funding-for-anypicks" target="_blank">
+                  <img src="/tb.png">
+                </a>
+              </ul>
             </div>
 
             <div class="mt-10 -mx-4 relative lg:mt-0">
