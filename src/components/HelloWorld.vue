@@ -8,9 +8,9 @@
           <span class="inline-block p-3 text-4xl">Web Development Engineer</span>
         </h2>
 
-        <span class="inline-block mt-16 tracking-wider text-white bg-orange-500 px-4 py-1 text-xs rounded leading-loose mx-2 font-semibold" title="">
+        <!-- <span class="inline-block mt-16 tracking-wider text-white bg-orange-500 px-4 py-1 text-xs rounded leading-loose mx-2 font-semibold" title="">
           <i class="fas fa-exclamation"></i> 案件探し中
-        </span>
+        </span> -->
       </div>
 
       <div class="mt-5 py-12 bg-gray-50 overflow-hidden lg:py-16">
@@ -98,6 +98,10 @@
                 <p class="mt-3 text-lg leading-7 text-gray-600">
                   CofeeScript <span class="text-sm">(2年)</span>
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
+                  <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
+                </p>
+                <p class="mt-3 text-lg leading-7 text-gray-600">
+                  Vue.js
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                 </p>
               </div>
