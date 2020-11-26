@@ -22,7 +22,7 @@
               </h4>
               <ul class="mt-3 text-lg leading-7 text-gray-600 list-disc list-inside">
                 <li>
-                  フリーランスWebエンジニアです。
+                  フリーランスとして活動しているWebエンジニアです。
                   <br>
                   中学生の頃にネットゲームをきっかけにPCに1日中触れる日々を過ごしていました。
                   <br>
