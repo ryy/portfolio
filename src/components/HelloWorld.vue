@@ -22,13 +22,17 @@
               </h4>
               <ul class="mt-3 text-lg leading-7 text-gray-600 list-disc list-inside">
                 <li>
-                  1991年生まれのフリーランスWebエンジニアです。
+                  フリーランスWebエンジニアです。
                   <br>
-                  中学生の頃にネットゲームをきかっけにPCに1日中触れる日々を過ごしていました。
+                  中学生の頃にネットゲームをきっかけにPCに1日中触れる日々を過ごしていました。
                   <br>
-                  就職はITとは無縁の職に就くも、エンジニアとして働きたいという思いが強くなりシステム開発会社に転職し、1年後にフリーランスとして独立し5年目を迎えます。
+                  就職はITとは無縁の職に就くも、エンジニアとして働きたいという思いが強く、システム開発会社に転職し、1年後にフリーランスとして独立し5年目を迎えます。
                   <br>
                   主にWeb系の案件をメインに携わっています。
+                  <br>
+                  直近ではスタートアップ支援や新規立ち上げフェーズに関わっています。
+                  <br>
+                  個人開発なども積極的に行なっており、0->1の開発が得意です。
                 </li>
               </ul>
             </div>
@@ -101,7 +105,13 @@
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                 </p>
                 <p class="mt-3 text-lg leading-7 text-gray-600">
-                  Vue.js
+                  Vue.js <span class="text-sm">(1年)</span>
+                  <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
+                  <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
+                </p>
+                <p class="mt-3 text-lg leading-7 text-gray-600">
+                  Nuxt.js <span class="text-sm">(1年)</span>
+                  <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                 </p>
               </div>
