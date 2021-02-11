@@ -24,7 +24,7 @@
                 <li>
                   フリーランスとして活動しているWebエンジニアです。
                   <br>
-                  中学生の頃にネットゲームをきっかけにPCに1日中触れる日々を過ごしていました。
+                  学生時代にネットゲームをきっかけにPCに1日中触れる日々を過ごしていました。
                   <br>
                   就職はITとは無縁の職に就くも、エンジニアとして働きたいという思いが強く、システム開発会社に転職し、1年後にフリーランスとして独立し5年目を迎えます。
                   <br>
@@ -150,6 +150,28 @@
             <h2 class="text-2xl tracking-tight leading-10 font-extrabold text-gray-900 sm:text-5xl sm:leading-none md:text-4xl">
               <span class="text-green-500">Portfolio</span>
             </h2>
+          </div>
+
+          <div class="relative mt-12 sm:mt-16 lg:mt-24">
+            <div class="lg:grid lg:grid-flow-row-dense lg:grid-cols-2 lg:gap-8 lg:items-center">
+              <div class="lg:col-start-2">
+                <h4 class="text-2xl leading-8 font-extrabold text-gray-900 tracking-tight sm:text-3xl sm:leading-9">
+                  Slack RSS Reader
+                </h4>
+                <p class="mt-3 text-md leading-7 text-gray-600">
+                  GooleChromeの新規タブ(ブランクページ)にSlackのチャンネルに登録しているRSSフィードを表示するGoogleChrome拡張機能
+                </p>
+                <div class="px-1 py-1">
+                  <a href="https://chrome.google.com/webstore/detail/slack-rss-reader/mmfkogkfphmlkeildihamlilfinbpdfo?hl=ja&authuser=0" target="_blank" class="left-auto mr-2 underline">ChromeExtension</a>
+                </div>
+                <div class="px-1 py-1">
+                  <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"># Vue.js</span>
+                </div>
+              </div>
+              <div class="mt-10 -mx-4 relative lg:mt-0 lg:col-start-1">
+                <img class="relative mx-auto" width="500" src="../assets/slack_rss_reader.png">
+              </div>
+            </div>
           </div>
 
           <div class="relative mt-12 sm:mt-16 lg:mt-24 lg:grid lg:grid-cols-2 lg:gap-8 lg:items-center">
