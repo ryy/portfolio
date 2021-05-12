@@ -22,11 +22,11 @@
               </h4>
               <ul class="mt-3 text-lg leading-7 text-gray-600 list-disc list-inside">
                 <li>
-                  フリーランスとして活動しているWebエンジニアです。
+                  フリーランスエンジニアです。
                   <br>
                   学生時代にネットゲームをきっかけにPCに1日中触れる日々を過ごしていました。
                   <br>
-                  就職はITとは無縁の職に就くも、エンジニアとして働きたいという思いが強く、システム開発会社に転職し、1年後にフリーランスとして独立し5年目を迎えます。
+                  就職ではITとは無縁の職に就くも、エンジニアとして働きたいという思いが強く、システム開発会社に転職し、そこから1年後にフリーランスとして独立し(2021年現在)7年目を迎えます。
                   <br>
                   主にWeb系の案件をメインに携わっています。
                   <br>
@@ -54,32 +54,32 @@
                   Back-end
                 </h4>
                 <p class="mt-3 text-lg leading-7 text-gray-600">
-                  Ruby <span class="text-sm">(4年)</span>
+                  Ruby
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                 </p>
 
                 <p class="mt-3 text-lg leading-7 text-gray-600">
-                  Ruby on Rails <span class="text-sm">(4年)</span>
+                  Ruby on Rails
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                 </p>
                 <p class="mt-3 text-lg leading-7 text-gray-600">
-                  PHP <span class="text-sm">(2年)</span>
+                  PHP
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                 </p>
                 <p class="mt-3 text-lg leading-7 text-gray-600">
-                  CakePHP <span class="text-sm">(2年)</span>
+                  CakePHP
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                 </p>
                 <p class="mt-3 text-lg leading-7 text-gray-600">
-                  Swift <span class="text-sm">(1年)</span>
+                  Swift
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                 </p>
               </div>
@@ -88,29 +88,29 @@
                   Front-End
                 </h4>
                 <p class="mt-3 text-lg leading-7 text-gray-600">
-                  JavaScript <span class="text-sm">(5年)</span>
+                  JavaScript
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                 </p>
                 <p class="mt-3 text-lg leading-7 text-gray-600">
-                  jQuery <span class="text-sm">(5年)</span>
+                  jQuery
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                 </p>
                 <p class="mt-3 text-lg leading-7 text-gray-600">
-                  CofeeScript <span class="text-sm">(2年)</span>
+                  CofeeScript
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                 </p>
                 <p class="mt-3 text-lg leading-7 text-gray-600">
-                  Vue.js <span class="text-sm">(1年)</span>
+                  Vue.js
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                 </p>
                 <p class="mt-3 text-lg leading-7 text-gray-600">
-                  Nuxt.js <span class="text-sm">(1年)</span>
+                  Nuxt.js
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                   <svg class="h-4 w-4 text-yellow-500 inline" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/></svg>
                 </p>
@@ -150,6 +150,31 @@
             <h2 class="text-2xl tracking-tight leading-10 font-extrabold text-gray-900 sm:text-5xl sm:leading-none md:text-4xl">
               <span class="text-green-500">Portfolio</span>
             </h2>
+          </div>
+
+          <div class="relative mt-12 sm:mt-16 lg:mt-24 lg:grid lg:grid-cols-2 lg:gap-8 lg:items-center">
+            <div class="relative">
+              <h4 class="text-2xl leading-8 font-extrabold text-gray-900 tracking-tight sm:text-3xl sm:leading-9">
+                REMOTEful
+              </h4>
+              <ul class="mt-3 text-lg leading-7 text-gray-600 list-disc list-inside">
+                <li>エンジニア向けのリモートワーク専用求人サイト</li>
+              </ul>
+              <div class="px-1 py-1">
+                <a href="https://remoteful.dev/" target="_blank" class="left-auto mr-2 underline">Web</a>
+              </div>
+              <div class="px-1 py-1">
+                <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"># Ruby</span>
+                <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"># Ruby on Rails</span>
+                <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"># PostgreSQL</span>
+                <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"># Heroku</span>
+                <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"># Amazon S3</span>
+              </div>
+            </div>
+
+            <div class="mt-10 -mx-4 relative lg:mt-0">
+              <img class="relative mx-auto" src="../assets/remoteful.png" alt="">
+            </div>
           </div>
 
           <div class="relative mt-12 sm:mt-16 lg:mt-24">
